@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Ishara Uditha. Computer Science and Engineering undergraduate with a keen interest in full-stack development, machine learning, and hardware design.</h2>
+<h2 align="left">Hi 👋, I'm Ishara Uditha. Interested in full-stack development, machine learning, and hardware design.</h2>
 
 ###
 
